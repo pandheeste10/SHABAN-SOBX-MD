@@ -14,11 +14,8 @@
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=blue&style=plastic" alt="Developer Badge">
 </p>        
-<a          href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
+
  
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
 
 -------------------------
 
@@ -27,9 +24,19 @@
 
 | Menu ⁠➜ | Status Save Sender | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
 |--------|---|-----|------|--------|-----|--|----|---|-----|----|--------|-----|
-| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Work ➜ | ❌ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---------------------
+![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
+
+<a
+href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+          
+---------------------
+
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork"><img title="SHABAN-SOBX-MD" src="https://img.shields.io/badge/FORK-SHABAN SOBX MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
