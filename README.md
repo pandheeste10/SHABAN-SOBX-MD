@@ -14,14 +14,6 @@
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=blue&style=plastic" alt="Developer Badge">
 </p>        
-
-<p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
- 
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
-
 <a          href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -71,6 +63,9 @@
 <h8>Copy the workflow codes and then frok the repo edit config add
 Work
 [![Work Flow Code WhatsApp Channel](https://img.shields.io/static/v1?label=Work%20Flow%20Click%20Copy&message=link&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O/438) 
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
+[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
 
 ***
 
